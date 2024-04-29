@@ -86,11 +86,13 @@ label {
 
 /* ************************* */
 
+
 .container {
-    width: 800px;
-    height: 800px;
+    margin: 0 auto;
+    width: 802px;
+    height: 802px;
     display: flex;
     flex-wrap: wrap;
     align-items: start;
-    /* gap: 1px; */
+    border: 1px solid black;
 }
